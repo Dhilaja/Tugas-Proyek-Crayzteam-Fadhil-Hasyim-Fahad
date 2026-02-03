@@ -1,5 +1,16 @@
+# Tugas Proyek Git Collaboration
 
-# Tugas Proyek Crayzteam - Fadhil, Hasyim, Fahad
+## Nama Tim
+Crazyteam
 
-**Poenya Kita** 🚀  
+## Anggota
+- Fadhil – Git Manager
+- Fahad – Drive & Dokumentasi
+- Hasyim – Dokumen Observasi & Wawancara
 
+## Deskripsi Proyek
+Proyek ini bertujuan untuk membuat sistem berbasis Python untuk menyelesaikan permasalahan nyata di lingkungan sekolah.
+
+## Struktur Repository
+- docs/ → Berisi dokumen PDF
+- src/ → Berisi source code Python
