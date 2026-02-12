@@ -15,15 +15,15 @@
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
-<h3 align="left">💫 Tentang Saya</h3>
+<h3 align="left">💫 Tentang CARAZYTEAM</h3>
 <p>
-  🌱 Saya sedang aktif mengembangkan dan mengasah kemampuan pemrograman saya.<br>
-  🔭 Saya pernah bekerja dengan .NET Framework dan berpengalaman dalam ASP.NET MVC.<br>
+  🌱 CRAZYTEAM sedang aktif mengembangkan dan mengasah kemampuan Pemrograman kami.<br>
+  🔭 Pernah Magang dengan Gamelab dan berpengalaman dalam Python Basic Dan Git Source Control<br>
   💬 Memiliki keahlian dalam bahasa pemrograman seperti Python dan SQL.<br>
   ⚡ Tertarik pada bidang DS/AI/ML, Otomasi, Development/Engineering, dll.<br>
 </p>
 
-<h3>🧲 Hubungi Saya:</h3>
+<h3>🧲 Hubungi CRAZYTEAM:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
@@ -34,7 +34,7 @@
 
 <br/>
 
-<h3 align="center">📚 Bahasa & Alat yang Pernah Saya Gunakan</h3>
+<h3 align="center">📚 Bahasa & Alat yang Pernah CARZYTEAM Gunakan</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
@@ -87,7 +87,7 @@
 
 <br/>
 
-<h3 align="center">💰 Dukung Saya</h3>
+<h3 align="center">💰 Dukung CARZYTEAM</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/joshuathadi">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Beli Saya Kopi" />
@@ -101,5 +101,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
-  ⚠️ README ini dirancang secara unik oleh <strong>@JoshuaThadi.</strong>
+  ⚠️ README ini dirancang secara unik oleh <strong>@CRAZYTEAM.</strong>
 </p>
