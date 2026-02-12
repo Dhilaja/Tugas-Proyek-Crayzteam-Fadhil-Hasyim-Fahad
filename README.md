@@ -1,5 +1,5 @@
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="900" height="600" src="https://github.com/Dhilaja/Tugas-Proyek-Crayzteam/blob/main/Screenshot%202026-02-09%20140415.png" alt="Fallout GIF"/>
+  <video width="900" height="600" src="https://github.com/Dhilaja/Tugas-Proyek-Crayzteam/blob/main/Fafifu.mp4" alt="Fallout GIF"/>
 </a>
 
 <div align="center">
