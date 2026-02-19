@@ -6,3 +6,8 @@ def hitung_denda(haritelat):
     
 def hitung_saldo(kasmasuk, kaskeluar, denda):
     return kasmasuk - kaskeluar - denda
+
+def hitung_saldo(kasmasuk, kaskeluar, denda):
+    if kasmasuk < 0 or kaskeluar < 0:
+        return 0
+    return kasmasuk - kaskeluar - denda
