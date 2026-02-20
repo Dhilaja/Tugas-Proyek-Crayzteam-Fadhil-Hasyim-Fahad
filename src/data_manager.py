@@ -25,3 +25,6 @@ def simpan_data(nama, kasmasuk, kaskeluar, haritelat, denda, saldo):
 
         file.write(f"Saldo Akhir: {saldo}\n")
         file.write("=======================\n\n")
+
+        #masih ada beberapa revisi, terkait dengan program yang kita buat.
+
