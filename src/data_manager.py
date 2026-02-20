@@ -19,4 +19,7 @@ def simpan_data(nama, kasmasuk, kaskeluar, haritelat, denda, saldo):
         file.write(f"Nama: {nama}\n")
         file.write(f"Kas Masuk: {kasmasuk}\n")
         file.write(f"Kas Keluar: {kaskeluar}\n")
+
+        file.write(f"Hari Telat: {haritelat}\n")
+        file.write(f"Denda: {denda}\n")
     
