@@ -1,16 +1,8 @@
-def hitung_denda(haritelat):
-    if haritelat > 0:
-        return haritelat * 2000
+def hitung_denda(hari_telat):
+    if hari_telat > 0:
+        return hari_telat * 2000
     return 0
 
 
-def hitung_saldo(kasmasuk, kaskeluar, denda):
-    if kasmasuk < 0 or kaskeluar < 0:
-        return 0
-    return kasmasuk - kaskeluar - denda
-
-
-def hitung_total_kewajiban(kasmasuk, kaskeluar, haritelat):
-    denda = hitung_denda(haritelat)
-    saldo = hitung_saldo(kasmasuk, kaskeluar, denda)
-    return saldo
+def hitung_saldo(total_masuk, total_keluar):
+    return total_masuk - total_keluar
