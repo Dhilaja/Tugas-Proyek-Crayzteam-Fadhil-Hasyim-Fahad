@@ -16,5 +16,7 @@ def simpan_data(nama, kasmasuk, kaskeluar, haritelat, denda, saldo):
     with open("data_kas.txt", "a") as file:
         file.write("=== DATA TRANSAKSI ===\n")
 
- 
+        file.write(f"Nama: {nama}\n")
+        file.write(f"Kas Masuk: {kasmasuk}\n")
+        file.write(f"Kas Keluar: {kaskeluar}\n")
     
