@@ -4,34 +4,26 @@
   <img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?q=80&w=1200&auto=format&fit=crop" width="100%">
 </p>
 
-| 🔴 **CRAZYTEAM ORIGINAL** | 🗓️ **2024** | ⭐️ **Rating: 9.8/10** | 🇮🇩 **Bahasa Indonesia** |
+| 🔴 **CRAZYTEAM ORIGINAL** | 🗓️ **2026** | ⭐️ **Rating: 9.8/10** | 🇮🇩 **Bahasa Indonesia** |
 | :--- | :--- | :--- | :--- |
 
 ### **Nabung Kas Nggak Pake Ribet.**
-Membuat catatan uang kas kelas jadi lebih rapi dan transparan. tidak ada lagi cerita uang hilang atau lupa siapa yang belum bayar.
+Membuat catatan uang kas kelas jadi lebih rapi dan transparan. Tidak ada lagi cerita uang hilang atau lupa siapa yang belum bayar.
 
 [**▶️ YUK KITA MULAI**](https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git)
 
 ---
 
-## 📸 Dokumentasi Foto Proyek
-> **"Intip di balik layar keseruan CRAZYTEAM saat pengerjaan proyek ini."**
+## 📸 Dokumentasi Foto: Episodes
+> **"Tonton keseruan proses pengerjaan CRAZYTEAM dari awal sampai rilis."**
 
-<p align="center">
-  <img src="Dokumentasi_Foto/IMG_7410.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7411.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7413.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7414.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7415.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-</p>
+| ![Ep 1](Dokumentasi_Foto/IMG_7410.JPG) | ![Ep 2](Dokumentasi_Foto/IMG_7411.JPG) | ![Ep 3](Dokumentasi_Foto/IMG_7413.JPG) | ![Ep 4](Dokumentasi_Foto/IMG_7414.JPG) | ![Ep 5](Dokumentasi_Foto/IMG_7415.JPG) |
+| :---: | :---: | :---: | :---: | :---: |
+| **S1:E1 "The Nulis"** | **S1:E2 "Ngitung Uang"** | **S1:E3 "Brifing lagi"** | **S1:E4 "Fahad plenger"** | **S1:E5 "Jacky Nguyu"** |
 
-<p align="center">
-  <img src="Dokumentasi_Foto/IMG_7416.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7417.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/IMG_7409.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/WIN_20260202_10_53_12_Pro.jpg" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-  <img src="Dokumentasi_Foto/WIN_20260202_10_54_08_Pro.jpg" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
-</p>
+| ![Ep 6](Dokumentasi_Foto/IMG_7416.JPG) | ![Ep 7](Dokumentasi_Foto/IMG_7417.JPG) | ![Ep 8](Dokumentasi_Foto/IMG_7409.JPG) | ![Ep 9](Dokumentasi_Foto/WIN_20260202_10_53_12_Pro.jpg) | ![Ep 10](Dokumentasi_Foto/WIN_20260202_10_54_08_Pro.jpg) |
+| :---: | :---: | :---: | :---: | :---: |
+| **S1:E6 "Foto Belakang"** | **S1:E7 "Liat Uang Kas Kelas"** | **S1:E8 "Nyatet Uang Kas Kelas"** | **S1:E9 "Finalisasi"** | **S1:E10 "Tanda Tangan"** |
 
 ---
 
@@ -69,5 +61,5 @@ git clone [https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git](https://github
 # 2. Masuk ke foldernya
 cd Tugas-Proyek-Crayzteam
 
-# 3. langsung, jalanin programnya!
+# 3. Langsung, jalanin programnya!
 python main.py
