@@ -7,7 +7,7 @@ def buat_tabel():
     conn = connect_db()
     cursor = conn.cursor()
     # Tabel Siswa
-    cursor.execute(''' #perintah menjalankan sql ke database
+    cursor.execute('''
         CREATE TABLE IF NOT EXISTS siswa (
             nama TEXT PRIMARY KEY,
             bayar INTEGER DEFAULT 0,
