@@ -1,7 +1,0 @@
-=== DATA TRANSAKSI KAS KELAS ===
-Nama Siswa   : fadhil
-Kas Masuk    : Rp 5000
-Kas Keluar   : Rp 2000
-Denda        : Rp 0
-Saldo Akhir  : Rp 3000
-----------------------------------------
